@@ -67,14 +67,6 @@ This game primarily utilizes the following data structures:
    - x and y - Position of the tetromino on the board.
    - color - An integer representing the tetromino's color.
 
-## Credits💳:
-
-👨‍💻[Tanishq Shah](https://github.com/Tanishq7361) <br>
-👨‍💻[Yash Oza](https://github.com/Yash-Oza-ui) <br>
-👨‍💻[Dhvanit Shah](https://github.com/shahdhvanit) <br>
-👨‍💻[Yash Vaghela](https://github.com/Yash071-ma) <br>
-👨‍💻[Om Sutariya](https://github.com/thunder1907)
-
 ## License
 This project is licensed under the **MIT License.** 
 
